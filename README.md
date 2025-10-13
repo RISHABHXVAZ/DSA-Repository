@@ -8,6 +8,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -24,6 +25,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,5 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

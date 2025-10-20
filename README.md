@@ -58,6 +58,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

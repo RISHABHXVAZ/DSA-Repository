@@ -44,6 +44,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -88,6 +89,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 ## Queue
 |  |
 | ------- |
@@ -107,9 +109,14 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

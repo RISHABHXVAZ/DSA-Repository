@@ -25,6 +25,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +137,16 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

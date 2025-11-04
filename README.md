@@ -28,6 +28,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,6 +49,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -156,11 +159,13 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |

@@ -55,6 +55,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |

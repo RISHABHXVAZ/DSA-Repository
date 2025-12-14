@@ -53,6 +53,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,6 +173,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
 | ------- |

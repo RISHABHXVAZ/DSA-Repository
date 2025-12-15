@@ -41,6 +41,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
@@ -87,6 +88,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
+| [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -208,4 +211,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

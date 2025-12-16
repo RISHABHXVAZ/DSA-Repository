@@ -37,6 +37,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
@@ -94,6 +95,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
@@ -113,6 +115,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |

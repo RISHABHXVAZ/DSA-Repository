@@ -25,8 +25,8 @@ class Solution {
         }
 
         if(p.val != q.val) issame = false;
-        isSameTree(p.left, q.left);
-        isSameTree(p.right, q.right);
+        preorder(p.left, q.left);
+        preorder(p.right, q.right);
         return;
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {

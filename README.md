@@ -22,6 +22,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -30,6 +31,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -42,6 +44,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -225,6 +228,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |

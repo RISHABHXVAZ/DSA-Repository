@@ -27,6 +27,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -49,6 +51,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +93,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
@@ -235,6 +239,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 ## Union Find

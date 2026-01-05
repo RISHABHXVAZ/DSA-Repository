@@ -29,6 +29,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -40,6 +41,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
@@ -56,6 +58,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Array
@@ -149,6 +152,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
@@ -213,6 +217,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -247,6 +252,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |

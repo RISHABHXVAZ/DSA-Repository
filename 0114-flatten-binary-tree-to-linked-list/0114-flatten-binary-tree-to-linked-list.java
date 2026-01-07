@@ -14,22 +14,21 @@
  * }
  */
 class Solution {
-    static void pre(TreeNode root, List<TreeNode> preorder){
+    public void flatten(TreeNode root) {
         if(root == null) return;
 
-        preorder.add(root);
-        pre(root.left, preorder);
-        pre(root.right, preorder);
-    }
-    public void flatten(TreeNode root) {
-        
-        List<TreeNode> preorder = new ArrayList<>();
-        pre(root, preorder);
-
-        for(int i = 0; i < preorder.size()-1;i++){
-            preorder.get(i).right = preorder.get(i+1);
-            preorder.get(i).left = null;
+        TreeNode curr = root;
+        while(curr != null){
+            if(curr.left != null){
+                TreeNode prev = curr.left;
+                while(prev.right != null){
+                    prev = prev.right;
+                }
+                prev.right = curr.right;
+                curr.right = curr.left;
+                curr.left = null;
+            }
+            curr = curr.right;
         }
-        return;
     }
 }

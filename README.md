@@ -18,6 +18,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -40,6 +41,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0700-search-in-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0700-search-in-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +109,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
@@ -141,6 +145,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -322,4 +327,5 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0450-delete-node-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

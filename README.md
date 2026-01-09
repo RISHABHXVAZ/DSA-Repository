@@ -11,6 +11,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
@@ -32,6 +33,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -73,6 +75,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -242,6 +245,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
@@ -322,10 +326,15 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

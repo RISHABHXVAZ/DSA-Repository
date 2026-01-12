@@ -14,30 +14,25 @@
  * }
  */
 class Solution {
-    static void traverse(TreeNode root, List<TreeNode> lst){
+    TreeNode prev = null;
+    TreeNode first = null;
+    TreeNode second = null;
+     void inorder(TreeNode root){
         if(root == null) return;
-        traverse(root.left,lst);
-        lst.add(root);
-        traverse(root.right,lst);
+        inorder(root.left);
+        if(prev != null && root.val < prev.val){
+            if(first == null) first = prev;
+            second = root;
         }
+        prev = root;
+        inorder(root.right);
+    }
     public void recoverTree(TreeNode root) {
-        List<TreeNode> lst = new ArrayList<>();
-        traverse(root,lst);
-
-        TreeNode firstNode = null;
-        TreeNode secondNode = null;
-        for(int i = 0; i < lst.size()-1; i++){
-            if(lst.get(i).val > lst.get(i+1).val){
-                if(firstNode == null){
-                    firstNode = lst.get(i);
-                    secondNode = lst.get(i+1);
-                }
-                else secondNode = lst.get(i+1);
-            }
-        }
-        int temp = firstNode.val;
-        firstNode.val = secondNode.val;
-        secondNode.val = temp;
+        if(root == null) return;
+        inorder(root);
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
         return;
     }
 }

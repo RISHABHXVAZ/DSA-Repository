@@ -1,22 +1,25 @@
 class Solution {
-    void dfs(int[][] ans,int[][] image, int r, int c,int init, int color){
-        int rows = ans.length;
-        int cols = ans[0].length;
-        ans[r][c] = color;
-        int dx[] = {0,0,-1,1};
-        int dy[] = {-1,1,0,0};
-        for(int i = 0; i < 4; i++){
-            int nrow = r + dx[i];
-            int ncol = c + dy[i];
-            if(nrow >= 0 && ncol >= 0 && nrow < rows && ncol < cols && image[nrow][ncol] == init && ans[nrow][ncol] != color){
-                dfs(ans,image, nrow, ncol, init, color);
-            }
-        }
-    }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int[][] ans = image;
-        int initColor = image[sr][sc];
-        dfs(ans,image, sr, sc,initColor,color);
-        return ans;
+        int iniColor = image[sr][sc];
+        if(image[sr][sc] == color) return image;
+        image[sr][sc] = color;
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{sr,sc});
+        while(!q.isEmpty()){
+            int[] dx = {1,-1,0,0};
+            int[] dy = {0,0,1,-1};
+                int[] point = q.poll();
+                for(int j = 0; j < 4; j++){
+                    int x = point[0] + dx[j];
+                    int y = point[1] + dy[j];
+                    if(x >= 0 && x < image.length && y >= 0 && y < image[0].length){
+                        if(image[x][y] == iniColor){
+                            image[x][y] = color;
+                            q.add(new int[]{x,y});
+                        }
+                    }
+                }
+            }
+        return image;
     }
 }

@@ -1,42 +1,35 @@
 class Solution {
-    class Pair {
-        String first;
-        int second;
-        Pair(String f, int s) {
-            this.first = f;
-            this.second = s;
-        }
-    }
-
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> wordSet = new HashSet<>(wordList);
-        if (!wordSet.contains(endWord)) return 0; // endWord must exist
+        Set<String> st = new HashSet<>();
+        int n = wordList.size();
+        for(String s: wordList){
+            st.add(s);
+        }
+        if(!st.contains(endWord)) return 0;
 
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(beginWord, 1));
-        wordSet.remove(beginWord);
+        int count = 1;
+        Queue<String> q = new LinkedList<>();
+        q.add(beginWord);
+        st.remove(beginWord);
 
-        while (!q.isEmpty()) {
-            String word = q.peek().first;
-            int steps = q.peek().second;
-            q.remove();
-
-            if (word.equals(endWord)) return steps;
-
-            for (int i = 0; i < word.length(); i++) {
-                char[] arr = word.toCharArray();
-                for (char ch = 'a'; ch <= 'z'; ch++) {
-                    arr[i] = ch;
-                    String newWord = new String(arr);
-
-                    if (wordSet.contains(newWord)) {
-                        wordSet.remove(newWord);
-                        q.add(new Pair(newWord, steps + 1));
+        while(!q.isEmpty()){
+            int size = q.size();
+            for(int i = 0; i < size; i++){
+                String word = q.poll();
+                if(word.equals(endWord)) return count;
+                for(int j = 0; j < word.length(); j++){
+                    StringBuilder sb = new StringBuilder(word);
+                    for(char ch = 'a'; ch <= 'z'; ch++){
+                        sb.setCharAt(j, ch);
+                        if(st.contains(sb.toString())){
+                            q.add(sb.toString());
+                            st.remove(sb.toString());
+                        }
                     }
                 }
             }
+            count++;
         }
-
         return 0;
     }
 }

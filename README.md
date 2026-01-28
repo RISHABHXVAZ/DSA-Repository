@@ -69,6 +69,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
@@ -309,6 +310,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
@@ -384,9 +386,11 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
@@ -265,6 +266,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -319,6 +321,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
@@ -399,6 +402,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
@@ -411,5 +415,6 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

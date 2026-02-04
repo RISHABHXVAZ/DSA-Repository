@@ -64,6 +64,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -116,6 +117,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
@@ -206,6 +208,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
@@ -319,6 +322,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -396,6 +400,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
@@ -404,6 +409,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -420,6 +426,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

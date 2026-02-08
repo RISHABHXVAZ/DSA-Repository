@@ -76,6 +76,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -343,6 +344,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1036-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
@@ -410,6 +412,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -422,6 +425,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |

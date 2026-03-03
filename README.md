@@ -68,6 +68,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
@@ -125,6 +126,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
@@ -160,6 +162,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -218,6 +221,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
@@ -335,6 +339,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
@@ -375,6 +380,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -412,6 +418,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |

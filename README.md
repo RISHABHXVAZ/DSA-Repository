@@ -81,6 +81,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
@@ -459,6 +460,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -482,4 +484,8 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

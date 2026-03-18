@@ -228,6 +228,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |

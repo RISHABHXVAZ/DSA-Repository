@@ -205,6 +205,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
@@ -229,6 +230,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -503,6 +505,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |

@@ -115,6 +115,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
@@ -506,6 +507,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |

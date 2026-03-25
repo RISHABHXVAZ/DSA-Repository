@@ -130,6 +130,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
@@ -513,6 +514,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |

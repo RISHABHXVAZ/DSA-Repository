@@ -116,6 +116,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
@@ -172,6 +173,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -268,6 +270,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
@@ -519,6 +522,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0051-n-queens) |

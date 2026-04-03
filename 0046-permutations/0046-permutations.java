@@ -1,9 +1,9 @@
 class Solution {
     void func(int index, List<Integer> temp, Set<List<Integer>> st){
-        st.add(new ArrayList<>(temp));
-    
-
-        if(index == temp.size()) return;
+        if(index == temp.size()){
+            st.add(new ArrayList<>(temp));
+            return;
+        }
 
         for(int i = index; i < temp.size(); i++){
             int val = temp.get(index);

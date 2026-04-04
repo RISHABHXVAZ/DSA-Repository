@@ -249,6 +249,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
@@ -537,6 +538,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |

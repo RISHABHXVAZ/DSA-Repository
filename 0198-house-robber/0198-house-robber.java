@@ -1,15 +1,18 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        int[] money = new int[n];
+    
         if(n == 1) return nums[0];
         if(n == 2) return Math.max(nums[0], nums[1]);
 
-        money[0] = nums[0];
-        money[1] = Math.max(nums[0], nums[1]);
+        int p1 = nums[0];
+        int p2 = Math.max(nums[0], nums[1]);
+        int curr;
         for(int i = 2; i < n; i++){
-            money[i] = Math.max(money[i-2] + nums[i], money[i-1]);
+            curr = Math.max(p1 + nums[i], p2);
+            p1 = p2;
+            p2 = curr;
         }
-        return money[n-1];
+        return p2;
     }
 }

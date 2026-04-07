@@ -134,6 +134,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -228,6 +229,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0064-minimum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |

@@ -563,4 +563,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0062-unique-paths) |
+## Concurrency
+|  |
+| ------- |
+| [1114-print-in-order](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1114-print-in-order) |
 <!---LeetCode Topics End-->

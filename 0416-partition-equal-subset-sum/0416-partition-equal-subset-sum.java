@@ -9,6 +9,7 @@ class Solution {
 
         for(int i = 0; i < n; i++) Arrays.fill(dp[i], false);
         dp[0][sum/2] = true;
+        for(int i = 0; i < n; i++) dp[i][0] = true;
 
         for(int idx = 1; idx < n; idx++){
             for(int target = 0; target <= sum; target++){

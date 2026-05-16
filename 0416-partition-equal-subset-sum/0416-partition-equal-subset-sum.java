@@ -5,14 +5,16 @@ class Solution {
         int sum = 0;
         for(int num: nums) sum += num;
         if((sum & 1) == 1) return false;
-        boolean[][] dp = new boolean[n][sum + 1];
+        boolean[][] dp = new boolean[n][sum/2 + 1];
 
         for(int i = 0; i < n; i++) Arrays.fill(dp[i], false);
-        dp[0][sum/2] = true;
+
+        if(nums[0] <= sum/2) dp[0][nums[0]] = true;
+
         for(int i = 0; i < n; i++) dp[i][0] = true;
 
         for(int idx = 1; idx < n; idx++){
-            for(int target = 0; target <= sum; target++){
+            for(int target = 0; target <= sum/2; target++){
                 boolean nottaken = dp[idx-1][target];
                 boolean taken = false;
                 if(nums[idx] <= target) taken = dp[idx-1][target-nums[idx]];
@@ -20,6 +22,6 @@ class Solution {
             }
         }
 
-        return dp[n-1][sum];
+        return dp[n-1][sum/2];
     }
 }

@@ -146,6 +146,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
@@ -238,6 +239,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -554,6 +556,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |

@@ -141,6 +141,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
@@ -234,6 +235,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
@@ -387,6 +389,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0547-number-of-provinces) |

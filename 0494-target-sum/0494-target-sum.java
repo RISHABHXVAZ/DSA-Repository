@@ -1,18 +1,5 @@
 class Solution {
-    //memorisation method
-    int func(int idx, int[] nums, int tgt, int[][] dp){
-        if(idx == 0){
-            if(tgt == 0 && nums[0] == 0) return 2;
-            if(tgt == 0 || nums[idx] == tgt) return 1;
-            else return 0;
-        }
-        if(dp[idx][tgt] != -1) return dp[idx][tgt];
-        int nottake = func(idx-1, nums, tgt, dp);
-        int take = 0;
-        if(nums[idx] <= tgt) take = func(idx-1, nums, tgt - nums[idx], dp);
-        dp[idx][tgt] = nottake + take;
-        return dp[idx][tgt];
-    }
+   
     public int findTargetSumWays(int[] nums, int target) {
         int n = nums.length;
         int tsum = 0;
@@ -21,8 +8,20 @@ class Solution {
         int tgt = (tsum - target)/2;
         int[][] dp = new int[n][tgt+1];
 
-        for(int i = 0; i < n; i++) Arrays.fill(dp[i], -1);
+        if(nums[0] == 0) dp[0][0] = 2;
+        if(nums[0] != 0) {
+            dp[0][0] = 1;
+            if(nums[0] <= tgt) dp[0][nums[0]] = 1;
+        }
 
-        return func(n-1, nums, tgt, dp);
+        for(int i = 1; i < n; i++){
+            for(int t = 0; t <= tgt; t++){
+                int nottake = dp[i-1][t];
+                int take = 0;
+                if(nums[i] <= t) take = dp[i-1][t-nums[i]];
+                dp[i][t] = take + nottake;
+            }
+        }
+        return dp[n-1][tgt];
     }
 }

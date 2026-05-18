@@ -1,24 +1,21 @@
 class Solution {
-    int func(int idx, int[] coins, int amount, int[][] dp){
-        if(amount == 0) return 0;
-        if(idx == 0){
-            if(amount % coins[0] == 0) return amount/coins[0];
-            else return (int)1e9; 
-        }
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-        int nottake = 0 + func(idx-1, coins, amount, dp);
-        int take = Integer.MAX_VALUE;
-        if(coins[idx] <= amount) take = 1 + func(idx, coins, amount - coins[idx], dp);
-        dp[idx][amount] = (int)Math.min(take, nottake);
-        return dp[idx][amount];
-    }
     public int coinChange(int[] coins, int amount) {
         if(amount == 0) return 0;
         int n = coins.length;
-        Arrays.sort(coins);
         int[][] dp = new int[n][amount+1];
-        for(int i = 0; i < n; i++) Arrays.fill(dp[i], -1);
-        int ans = func(n-1 ,coins, amount, dp);
-        return ans == 1e9 ? -1: ans;
+        for(int i = 0; i <= amount; i++){
+            if(i % coins[0] == 0) dp[0][i] = i/coins[0];
+            else dp[0][i] = (int)1e9;
+        }
+
+        for(int i = 1; i < n; i++){
+            for(int t = 0; t <= amount; t++){
+                int nottake = dp[i-1][t];
+                int take = Integer.MAX_VALUE;
+                if(coins[i] <= t) take = 1 + dp[i][t - coins[i]];
+                dp[i][t] = (int)Math.min(take, nottake); 
+            }
+        }
+        return dp[n-1][amount] == 1e9? -1: dp[n-1][amount];
     }
 }

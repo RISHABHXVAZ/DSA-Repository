@@ -14,7 +14,21 @@ class Solution {
         int l1 = text1.length();
         int l2 = text2.length();
         int[][] dp = new int[l1][l2];
-        for(int i = 0; i < l1; i++) Arrays.fill(dp[i], -1);
-        return func(l1-1, l2-1, text1, text2, dp);
+        
+        for(int j = 0; j < l2; j++){
+            if(text2.charAt(j) == text1.charAt(0)) dp[0][j] = 1;
+            else if(j > 0) dp[0][j] = dp[0][j-1];
+        }
+        for(int i = 0; i < l1; i++){
+            if(text1.charAt(i) == text2.charAt(0)) dp[i][0] = 1;
+            else if(i > 0) dp[i][0] = dp[i-1][0];
+        }
+        for(int i = 1; i < l1; i++){
+            for(int j = 1; j < l2; j++){
+                if(text1.charAt(i) == text2.charAt(j)) dp[i][j] = 1 + dp[i-1][j-1];
+                else dp[i][j] = (int)Math.max(dp[i][j-1], dp[i-1][j]);
+            }
+        }
+        return dp[l1-1][l2-1];
     }
 }

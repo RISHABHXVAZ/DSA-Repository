@@ -233,6 +233,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0064-minimum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -267,6 +268,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |

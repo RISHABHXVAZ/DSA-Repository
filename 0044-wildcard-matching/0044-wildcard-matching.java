@@ -14,11 +14,7 @@ class Solution {
         if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '?'){
             dp[i][j] = func(i-1,j-1,s,p,dp);
         }else if(p.charAt(j) == '*'){
-            int ans = 0;
-            for(int k = 0; k <= i+1; k++){
-                ans = (ans | func(i-k,j-1, s,p,dp));
-            }
-            dp[i][j] = ans;
+            dp[i][j] = func(i,j-1,s,p,dp) | func(i-1,j,s,p,dp);
         }else dp[i][j] = 0;
 
         return dp[i][j];

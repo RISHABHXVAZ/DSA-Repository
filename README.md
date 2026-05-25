@@ -135,6 +135,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -237,6 +238,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |

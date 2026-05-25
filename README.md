@@ -226,6 +226,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0062-unique-paths) |
@@ -267,6 +268,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0008-string-to-integer-atoi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
@@ -291,6 +293,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
@@ -584,6 +587,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 ## Combinatorics

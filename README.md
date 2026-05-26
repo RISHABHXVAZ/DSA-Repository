@@ -156,6 +156,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
@@ -260,6 +261,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1092-shortest-common-supersequence) |
@@ -313,6 +315,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix

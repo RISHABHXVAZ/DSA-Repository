@@ -145,6 +145,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
@@ -253,6 +254,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
@@ -405,6 +407,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |

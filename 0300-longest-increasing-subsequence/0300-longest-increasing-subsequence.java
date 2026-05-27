@@ -12,9 +12,18 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
         int[][] dp = new int[n+1][n+1];
-        for(int i = 0; i <= n; i++){
-            Arrays.fill(dp[i], -1);
+
+        for(int i = n-1; i >= 0; i--){
+            for(int prev = i-1; prev >= -1; prev--){
+                if(prev == -1 || nums[i] > nums[prev]){
+                    int op1 = 1 + dp[i+1][i+1];
+                    int op2 = dp[i+1][prev+1];
+                    dp[i][prev+1] = (int)Math.max(op1, op2);
+                }else dp[i][prev+1] = dp[i+1][prev+1];
+            }
         }
-        return func(0,-1,nums,dp);
+
+
+        return dp[0][0];
     }
 }

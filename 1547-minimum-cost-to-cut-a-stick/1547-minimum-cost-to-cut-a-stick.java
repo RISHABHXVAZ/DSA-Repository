@@ -22,7 +22,21 @@ class Solution {
         }
 
         int[][] dp = new int[l+2][l+2];
-        for(int i = 0; i < l+2; i++) Arrays.fill(dp[i], -1);
-        return func(1, l, newarray, dp);
+    
+        for(int i = l; i >= 1; i--){
+            for(int j = 1; j <= l; j++){
+                if(i > j) dp[i][j] = 0;
+                else{
+                    dp[i][j] = Integer.MAX_VALUE;
+                    int steps = 0;
+                    for(int k = i; k <= j; k++){
+                        steps = newarray[j+1]-newarray[i-1] + dp[i][k-1] + dp[k+1][j];
+                        dp[i][j] = Math.min(dp[i][j], steps);
+                    }
+                }
+            }
+        }
+
+        return dp[1][l];
     }
 }

@@ -20,6 +20,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -317,6 +318,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1143-longest-common-subsequence) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -633,6 +635,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
+| [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |

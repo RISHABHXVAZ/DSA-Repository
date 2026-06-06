@@ -17,6 +17,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -333,6 +334,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
@@ -358,6 +360,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

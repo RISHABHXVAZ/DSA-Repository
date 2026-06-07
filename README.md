@@ -334,6 +334,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
@@ -699,5 +700,6 @@ DSA problems solved in Java with clean and optimized solutions.
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0686-repeated-string-match) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->

@@ -1,37 +1,45 @@
 class Solution {
-    void calculateZ(String s, int[] z){
-        int l = 0, r = 0;
-        
-        for(int i = 1; i < s.length(); i++){
-            if(i <= r){
-                z[i] = Math.min(r-i+1, z[i-l]);
-            }
-
-            while(i + z[i] < s.length() && s.charAt(z[i]) == s.charAt(i + z[i])){
-                z[i]++;
-            }
-
-            if(i+z[i]-1 > r){
-                l = i;
-                r = i+z[i]-1;
+    void buildLPSArray(String s, int[] lps){
+        int len = 0;
+        int i = 1;
+        while(i < s.length()){
+            if(s.charAt(i) == s.charAt(len)){
+                len++;
+                lps[i] = len;
+                i++;
+            }else{
+                if(len != 0) {
+                    len = lps[len-1];
+                }else{
+                    lps[i] = 0;
+                    i++;
+                }
             }
         }
-
         return;
     }
     public int strStr(String haystack, String needle) {
         int n1 = haystack.length();
         int n2 = needle.length();
 
-        String combined = needle + '$' + haystack;
+        int[] lps = new int[n2];
+        buildLPSArray(needle, lps);
 
-        int[] z = new int[n1+n2+1];
-
-        calculateZ(combined, z);
-
-        for(int i = n2+1; i < n1+n2+1; i++){
-            if(z[i] == n2) return i-n2-1;
+        int i = 0, j = 0, k = 0;
+        while(i < n1){
+            if(haystack.charAt(i) == needle.charAt(j)){
+                i++;
+                j++;
+            }
+            if(j == n2) return i - n2;
+            else if(i < n1 && haystack.charAt(i) != needle.charAt(j)){
+                if(j != 0){
+                    j = lps[j-1];
+                }else{
+                   i++;
+                }
+            }
         }
-        return -1;
+        return -1; 
     }
 }

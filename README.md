@@ -347,6 +347,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -706,13 +707,16 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

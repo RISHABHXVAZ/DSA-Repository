@@ -248,6 +248,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
@@ -290,6 +291,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -335,6 +337,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0686-repeated-string-match) |

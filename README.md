@@ -145,6 +145,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
@@ -426,6 +427,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |
@@ -546,6 +548,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
@@ -571,6 +574,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -722,4 +726,8 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

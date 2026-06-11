@@ -400,6 +400,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -427,6 +428,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
@@ -571,6 +573,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -730,4 +733,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

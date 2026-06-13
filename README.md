@@ -154,6 +154,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
@@ -216,6 +217,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
@@ -440,6 +442,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
@@ -560,6 +563,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
@@ -568,6 +572,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
@@ -596,6 +601,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -752,8 +758,13 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

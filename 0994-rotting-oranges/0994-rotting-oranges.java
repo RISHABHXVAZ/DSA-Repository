@@ -1,38 +1,46 @@
 class Solution {
-    
-    public int orangesRotting(int[][] grid) {
-        Queue<int[]> q = new LinkedList<>();
+    int bfs(Queue<int[]> q, int[][] grid){
         int time = 0;
-        int cntFresh = 0;
-        for(int i = 0; i < grid.length; i++){
-            for(int j = 0; j < grid[0].length; j++){
-                if(grid[i][j] == 1) cntFresh++;
-                if(grid[i][j] == 2) q.add(new int[]{i,j});
-            }
-        }
-        
-        while(!q.isEmpty() && cntFresh > 0){
+        int[] dx = {-1,1,0,0};
+        int[] dy = {0,0,-1,1};
+        while(!q.isEmpty()){
             int size = q.size();
             time++;
-            int[] dx = {1,-1,0,0};
-            int[] dy = {0,0,1,-1};
             for(int i = 0; i < size; i++){
-                int[] point = q.poll();
+                int[] p = q.poll();
                 for(int j = 0; j < 4; j++){
-                    int x = point[0] + dx[j];
-                    int y = point[1] + dy[j];
-                    if(x >= 0 && x < grid.length && y >= 0 && y < grid[0].length){
-                        if(grid[x][y] == 1){
-                            cntFresh--;
-                            grid[x][y] = 2;
-                            q.add(new int[]{x,y});
-                        }
+                    int nx = p[0] + dx[j];
+                    int ny = p[1] + dy[j];
+                    if(nx >= 0 && nx < grid.length && ny >= 0 && ny < grid[0].length && grid[nx][ny] == 1){
+                        grid[nx][ny] = 2;
+                        q.add(new int[]{nx, ny});
                     }
-                }                
+                }
             }
         }
 
-        if(cntFresh <= 0) return time;
-        else return -1;        
+        return time > 0? time-1: 0;
+    }
+    public int orangesRotting(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+        Queue<int[]> q = new LinkedList<>();
+
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 2){
+                    q.add(new int[]{i,j});
+                }
+            }
+        }
+
+        int time = bfs(q, grid);
+
+        for(int i = 0; i < m; i++){
+            for(int num : grid[i]){
+                if(num == 1) return -1;
+            }
+        }
+        return time;
     }
 }

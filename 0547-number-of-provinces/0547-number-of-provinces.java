@@ -1,22 +1,34 @@
 class Solution {
-    static void dfs(int i, boolean[] vis, int[][] isConnected){
-        vis[i] = true;
-        for(int j = 0; j < isConnected[i].length; j++){
-            if(isConnected[i][j] == 1 && vis[j] == false){
-                dfs(j, vis, isConnected);
-            }
+    void dfs(int node, List<List<Integer>> adj, boolean[] vis){
+        vis[node] = true;
+        for(int neigh : adj.get(node)){
+            if(!vis[neigh]) dfs(neigh, adj, vis);
         }
     }
     public int findCircleNum(int[][] isConnected) {
-        int count = 0;
         int n = isConnected.length;
-        boolean[] vis = new boolean[n];
+        List<List<Integer>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                count++;
-                dfs(i,vis,isConnected);
+            adj.add(new ArrayList<>());
+        }
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                if(isConnected[i][j] == 1){
+                    adj.get(i).add(j);
+                    adj.get(j).add(i);
+                }
             }
         }
-        return count;
+
+        boolean[] vis = new boolean[n];
+        int ans = 0;
+        for(int i = 0; i < n; i++){
+            if(!vis[i]){
+                ans++;
+                dfs(i, adj, vis);
+            }
+        }
+        return ans;
     }
 }

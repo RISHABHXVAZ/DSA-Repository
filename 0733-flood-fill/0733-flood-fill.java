@@ -1,19 +1,34 @@
 class Solution {
-    static void dfs(int[][] image, int sr, int sc, int inicolor, int color){
-        if(sr >= image.length || sr < 0 || sc >= image[0].length || sc < 0) return;
-        if(image[sr][sc] != inicolor){
-            return;
-        }
-        image[sr][sc] = color;
-        dfs(image, sr+1, sc, inicolor, color);
-        dfs(image, sr, sc+1, inicolor, color);
-        dfs(image, sr-1, sc, inicolor, color);
-        dfs(image, sr, sc-1, inicolor, color);
-    }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-     if(image[sr][sc] == color) return image;
-     int inicolor = image[sr][sc];
-     dfs(image, sr, sc, inicolor, color);
-     return image;   
+        int m = image.length;
+        int n = image[0].length;
+
+        int org = image[sr][sc];
+        Queue<int[]> q = new LinkedList<>();
+        boolean[][] vis = new boolean[m][n];
+
+        q.add(new int[]{sr, sc});
+        vis[sr][sc] = true;
+
+        int[] dx = {1, -1, 0, 0};
+        int[] dy = {0, 0, 1, -1};
+
+        while(!q.isEmpty()){
+            int[] p = q.poll();
+            int x = p[0], y = p[1];
+
+            image[x][y] = color;
+
+            for(int i = 0; i < 4; i++){
+                int nx = x + dx[i];
+                int ny = y + dy[i];
+                if(nx >= 0 && nx < m && ny >= 0 && ny < n && image[nx][ny] == org && !vis[nx][ny]){
+                    vis[nx][ny] = true;
+                    q.add(new int[]{nx,ny});
+                }
+            }
+        }
+
+        return image;
     }
 }

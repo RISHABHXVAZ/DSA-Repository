@@ -2,33 +2,33 @@ class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int m = mat.length;
         int n = mat[0].length;
+
+        int[][] ans = new int[m][n];
         Queue<int[]> q = new LinkedList<>();
-        boolean[][] vis = new boolean[m][n];
-        for(int i = 0; i < m ; i++){
+
+        for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(mat[i][j] == 0){
-                    vis[i][j] = true;
-                    q.add(new int[]{i,j});
+                if(mat[i][j] == 0) q.add(new int[]{i, j, 0});
+                if(mat[i][j] != 0) ans[i][j] = Integer.MAX_VALUE;
+            }
+        }
+
+        int[] dx = {1, -1, 0, 0};
+        int[] dy = {0, 0, 1, -1};
+
+        while(!q.isEmpty()){
+            int[] p = q.poll();
+            for(int i = 0; i < 4; i++){
+                int nx = p[0] + dx[i];
+                int ny = p[1] + dy[i];
+                
+                if(nx >= 0 && nx < m && ny >= 0 && ny < n && p[2]+1 < ans[nx][ny]){
+                    ans[nx][ny] = p[2]+1;
+                    q.add(new int[]{nx, ny, p[2]+1});
                 }
             }
         }
 
-        while(!q.isEmpty()){
-            int point[] = q.poll();
-            int[] dx = {1,-1,0,0};
-            int[] dy = {0,0,1,-1};
-            for(int i = 0; i < 4; i++){
-                int x = point[0] + dx[i];
-                int y = point[1] + dy[i];
-                if(x >= 0 && x < m && y >= 0 && y < n){
-                    if(mat[x][y] == 1 && vis[x][y] == false){
-                        mat[x][y] = mat[point[0]][point[1]] + 1;
-                        vis[x][y] = true;
-                        q.add(new int[]{x,y});
-                    }
-                }
-            }
-        }
-        return mat;
+        return ans;
     }
 }

@@ -6,7 +6,7 @@ class Solution {
         int[][] dist = new int[n][n];
         for(int i = 0; i < n; i++) Arrays.fill(dist[i], Integer.MAX_VALUE);
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[0]-b[0]);
+        Queue<int[]> pq = new LinkedList<>();
         pq.add(new int[]{1, 0, 0});
         dist[0][0] = 1;
 

@@ -199,6 +199,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -558,6 +559,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
+| [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
@@ -582,6 +584,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

@@ -198,6 +198,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
@@ -381,6 +382,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -583,6 +585,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
@@ -772,4 +775,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

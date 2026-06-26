@@ -1,41 +1,42 @@
 class Solution {
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
-        int[][] cost = new int[n][n];
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(i == j) cost[i][j] = 0;
-                else cost[i][j] = Integer.MAX_VALUE;
-            }
-        }
+        int[][] matrix = new int[n][n];
+
+        for(int i = 0; i < n; i++) Arrays.fill(matrix[i], Integer.MAX_VALUE);
+
         for(int i = 0; i < edges.length; i++){
             int u = edges[i][0];
             int v = edges[i][1];
-            int cst = edges[i][2];
-            cost[u][v] = cst;
-            cost[v][u] = cst;
+            int w = edges[i][2];
+
+            matrix[u][v] = w;
+            matrix[v][u] = w;
         }
 
-        for(int via = 0; via < n; via++){
+        for(int k = 0; k < n; k++){
+
             for(int i = 0; i < n; i++){
                 for(int j = 0; j < n; j++){
-                    if(cost[i][via] != Integer.MAX_VALUE && cost[via][j] != Integer.MAX_VALUE){
-                        cost[i][j] = Math.min(cost[i][j], cost[i][via] + cost[via][j]);
-                    }
+                    if(matrix[i][k] == Integer.MAX_VALUE || matrix[k][j] == Integer.MAX_VALUE) continue;
+                    matrix[i][j] = Math.min(matrix[i][j], matrix[i][k] + matrix[k][j]);
                 }
             }
         }
-        int mincount = Integer.MAX_VALUE;
+
+        int min = Integer.MAX_VALUE;
         int node = -1;
         for(int i = 0; i < n; i++){
-            int count = 0;
+            int cnt = 0;
             for(int j = 0; j < n; j++){
-                if(i != j && cost[i][j] <= distanceThreshold) count++;
+                if(i != j && matrix[i][j] != Integer.MAX_VALUE && matrix[i][j] <= distanceThreshold) cnt++;
             }
-            if(count <= mincount){
-                mincount = count;
+            if(cnt <= min){
+                min = cnt;
                 node = i;
             }
         }
+
         return node;
+
     }
 }

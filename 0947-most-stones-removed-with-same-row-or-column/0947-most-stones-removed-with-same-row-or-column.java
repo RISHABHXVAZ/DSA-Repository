@@ -1,56 +1,52 @@
 class Solution {
-    List<Integer> parent = new ArrayList<>();
-    List<Integer> size = new ArrayList<>();
-    void initialize(int n){
-        for(int i = 0; i < n; i++){
-            parent.add(i);
-            size.add(1);
-        }
+    int[] size;
+    int[] par;
+
+    void initialise(int n){
+        size = new int[n];
+        par = new int[n];
+
+        Arrays.fill(size, 1);
+        for(int i = 0; i < n; i++) par[i] = i;
     }
 
-    int findUPar(int u){
-        if(u == parent.get(u)) return u;
-        int par = findUPar(parent.get(u));
-        parent.set(u, par);
-        return par;
+    int find(int x){
+        if(x == par[x]) return x;
+        par[x] = find(par[x]);
+        return par[x];
     }
 
-    void UnionBySize(int u, int v){
-        int upar = findUPar(u);
-        int vpar = findUPar(v);
+    void Union(int u, int v){
+        int upar = find(u);
+        int vpar = find(v);
         if(upar == vpar) return;
-        else if(size.get(u) < size.get(v)){
-            parent.set(upar, vpar);
-            size.set(vpar, size.get(upar) + size.get(vpar));
+
+        if(size[upar] <= size[vpar]){
+            size[vpar] += size[upar];
+            par[upar] = vpar;
         }else{
-            parent.set(upar, vpar);
-            size.set(upar, size.get(upar) + size.get(vpar));
+            size[upar] += size[vpar];
+            par[vpar] = upar;
         }
-    } 
+    }
     public int removeStones(int[][] stones) {
-        int maxrow = Integer.MIN_VALUE;
-        int maxcol = Integer.MIN_VALUE;
-        for(int i = 0; i < stones.length; i++){
-            maxrow = Math.max(maxrow, stones[i][0]);
-            maxcol = Math.max(maxcol, stones[i][1]);
+        int n = stones.length;
+        initialise(n);
+
+        for(int i = 0; i < n; i++){
+            int[] p1 = stones[i];
+            for(int j = i+1; j < n; j++){
+                int[] p2 = stones[j];
+                if(p1[0] == p2[0] || p1[1] == p2[1]){
+                    Union(i, j);
+                }
+            }
         }
-        
-        int n = maxrow + maxcol + 2;
-        initialize(n);
-        
-        Map<Integer, Integer> mpp = new HashMap<>();
-        for(int i = 0; i < stones.length; i++){
-            int u = stones[i][0];
-            int v = stones[i][1];
-            UnionBySize(u,v+maxrow+1);
-            mpp.put(u,1);
-            mpp.put(v + maxrow + 1, 1);
+
+        Set<Integer> st = new HashSet<>();
+        for(int i = 0; i < n; i++){
+            st.add(find(i));
         }
-        int comp = 0;
-        for(int it: mpp.keySet()){
-            if(parent.get(it) == it) comp++;
-        }
-        return stones.length - comp;
-        
+        return n - st.size();
     }
 }

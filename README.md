@@ -207,6 +207,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -322,6 +323,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -463,6 +465,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -500,6 +503,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -683,6 +687,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -690,6 +695,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -702,6 +708,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Biconnected Component
 |  |
 | ------- |

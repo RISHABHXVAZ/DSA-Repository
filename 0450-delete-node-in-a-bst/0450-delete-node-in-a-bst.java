@@ -14,29 +14,31 @@
  * }
  */
 class Solution {
+    TreeNode getMin(TreeNode node){
+        TreeNode temp = node;
+        while(temp.left != null){
+            temp = temp.left;
+        }
+
+        return temp;
+    }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null) return null;
 
         if(root.val < key){
             root.right = deleteNode(root.right, key);
-        }
-        else if(root.val > key){
+        }else if(root.val > key){
             root.left = deleteNode(root.left, key);
-        }
-        else{
+        }else{
             if(root.left == null) return root.right;
             if(root.right == null) return root.left;
 
             TreeNode successor = getMin(root.right);
             root.val = successor.val;
+            
             root.right = deleteNode(root.right, successor.val);
         }
-        return root;
-    }
-    static TreeNode getMin(TreeNode node){
-        while(node != null && node.left != null){
-            node = node.left;
-        }
-        return node;
+
+         return root;
     }
 }

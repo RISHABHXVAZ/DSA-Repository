@@ -14,19 +14,17 @@
  * }
  */
 class Solution {
-    static TreeNode buildBST(int[] preorder, int startpre, int endpre){
-        if(startpre > endpre) return null;
-        TreeNode root = new TreeNode(preorder[startpre]);
-        int j = startpre+1;
-        while(j <= endpre && preorder[j] < root.val) j++;
-        root.left = buildBST(preorder, startpre+1, j-1);
-        root.right = buildBST(preorder, j, endpre);
+    TreeNode func(int[] preorder, int start, int end){
+        if(start > end) return null;
+        TreeNode root = new TreeNode(preorder[start]);
+        int j = start+1;
+        while(j <= end && preorder[j] < preorder[start]) j++;
+        root.left = func(preorder, start+1, j-1);
+        root.right = func(preorder, j, end);
         return root;
     }
     public TreeNode bstFromPreorder(int[] preorder) {
         int n = preorder.length;
-        if(n == 0) return null;
-
-        return buildBST(preorder, 0, n-1);
+        return func(preorder,0,n-1);
     }
 }

@@ -14,31 +14,32 @@
  * }
  */
 class Solution {
-    static void inorder(TreeNode root, List<Integer> lst){
+    void inorder(TreeNode root, ArrayList<Integer> lst){
         if(root == null) return;
-        inorder(root.left,lst);
+        inorder(root.left, lst);
         lst.add(root.val);
         inorder(root.right, lst);
     }
-    static boolean bs(List<Integer> lst, int start, int end, int key){
-        int low = start;
-        int high = end;
-        while(low <= high){
-            int mid = low + (high-low)/2;
-            if(lst.get(mid) == key) return true;
-            else if(lst.get(mid) > key) high = mid-1;
-            else low = mid+1;
+
+    boolean search(TreeNode root, int t, int except){
+        TreeNode temp = root;
+        
+        while(temp != null){
+            if(temp.val == t && temp.val != except) return true;
+            else if(temp.val < t) temp = temp.right;
+            else temp = temp.left;
         }
+
         return false;
     }
     public boolean findTarget(TreeNode root, int k) {
-        List<Integer> lst = new ArrayList<>();
+        ArrayList<Integer> lst = new ArrayList<>();
         inorder(root, lst);
 
-        for(int i = 0; i < lst.size()-1; i++){
-            int more = k - lst.get(i);
-            if(bs(lst, i+1, lst.size()-1, more)) return true;
+        for(int i = 0; i < lst.size(); i++){
+            if(search(root, k-lst.get(i), lst.get(i))) return true;
         }
+
         return false;
     }
 }

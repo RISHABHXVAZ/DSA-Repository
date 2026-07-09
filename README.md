@@ -202,6 +202,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |

@@ -25,14 +25,14 @@ class BSTIterator {
     }
     
     public int next() {
-        TreeNode nextt = st.peek();
-        st.pop();
-        TreeNode temp = nextt.right;
+        TreeNode nextnode = st.pop();
+        TreeNode temp = nextnode.right;
         while(temp != null){
             st.push(temp);
             temp = temp.left;
         }
-        return nextt.val;
+
+        return nextnode.val;
     }
     
     public boolean hasNext() {

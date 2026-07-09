@@ -17,7 +17,8 @@ class Solution {
     TreeNode prev = null;
     TreeNode first = null;
     TreeNode second = null;
-     void inorder(TreeNode root){
+    
+    void inorder(TreeNode root){
         if(root == null) return;
         inorder(root.left);
         if(prev != null && root.val < prev.val){
@@ -28,11 +29,12 @@ class Solution {
         inorder(root.right);
     }
     public void recoverTree(TreeNode root) {
-        if(root == null) return;
         inorder(root);
+        if(first == null || second == null) return;
         int temp = first.val;
         first.val = second.val;
         second.val = temp;
+
         return;
     }
 }

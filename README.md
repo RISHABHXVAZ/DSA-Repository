@@ -167,6 +167,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -313,6 +314,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
@@ -628,6 +630,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Divide and Conquer
 |  |
@@ -746,6 +749,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |
@@ -827,4 +831,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

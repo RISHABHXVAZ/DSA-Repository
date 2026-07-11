@@ -301,6 +301,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -356,6 +357,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0132-palindrome-partitioning-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
@@ -581,6 +583,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
@@ -748,11 +751,13 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 ## Combinatorics

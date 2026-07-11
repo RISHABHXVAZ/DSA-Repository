@@ -150,6 +150,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -299,6 +300,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -411,6 +413,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |

@@ -11,6 +11,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
@@ -38,6 +39,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -64,6 +66,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -107,6 +110,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0110-balanced-binary-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |

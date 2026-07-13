@@ -787,6 +787,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Trie
 |  |

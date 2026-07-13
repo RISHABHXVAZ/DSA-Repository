@@ -14,30 +14,25 @@
  * }
  */
 class BSTIterator {
-    Stack<TreeNode> st;
+    PriorityQueue<TreeNode> pq; 
+    void traverse(TreeNode root, PriorityQueue<TreeNode> pq){
+        if(root == null) return;
+        pq.add(root);
+        traverse(root.left, pq);
+        traverse(root.right, pq);
+    }
     public BSTIterator(TreeNode root) {
-        st = new Stack<>();
-        TreeNode temp = root;
-        while(temp != null){
-            st.push(temp);
-            temp = temp.left;
-        }
+        pq = new PriorityQueue<>((a,b) -> a.val-b.val);
+        traverse(root, pq);
     }
     
     public int next() {
-        TreeNode nextnode = st.pop();
-        TreeNode temp = nextnode.right;
-        while(temp != null){
-            st.push(temp);
-            temp = temp.left;
-        }
-
-        return nextnode.val;
+        return pq.poll().val;
     }
     
     public boolean hasNext() {
-        if(st.isEmpty()) return false;
-        return true;
+        if(!pq.isEmpty()) return true;
+        return false;
     }
 }
 

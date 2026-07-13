@@ -14,15 +14,15 @@
  * }
  */
 class BSTIterator {
-    PriorityQueue<TreeNode> pq; 
-    void traverse(TreeNode root, PriorityQueue<TreeNode> pq){
+    Queue<TreeNode> pq; 
+    void traverse(TreeNode root, Queue<TreeNode> pq){
         if(root == null) return;
-        pq.add(root);
         traverse(root.left, pq);
+        pq.add(root);
         traverse(root.right, pq);
     }
     public BSTIterator(TreeNode root) {
-        pq = new PriorityQueue<>((a,b) -> a.val-b.val);
+        pq = new LinkedList<>();
         traverse(root, pq);
     }
     

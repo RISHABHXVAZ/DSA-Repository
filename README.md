@@ -602,6 +602,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
@@ -846,4 +847,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

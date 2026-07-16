@@ -222,6 +222,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +349,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -604,6 +607,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -635,6 +639,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -851,4 +856,5 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

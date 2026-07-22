@@ -2,10 +2,12 @@ class Solution {
     int func(int i, int j, String s, int[][] dp){
         if(i > j) return 0;
         if(dp[i][j] != -1) return dp[i][j];
-        if(s.charAt(i) == s.charAt(j)){
-            dp[i][j] = func(i+1, j-1, s, dp);
-        }else{
-            dp[i][j] = 1 + (int)Math.min(func(i, j-1, s, dp), func(i+1, j, s, dp));
+        if(s.charAt(i) == s.charAt(j)) dp[i][j] = func(i+1, j-1, s, dp);
+        else{
+            int op1 = 1 + func(i+1, j, s, dp);
+            int op2 = 1 + func(i, j-1, s, dp);
+
+            dp[i][j] = Math.min(op1, op2);
         }
         return dp[i][j];
     }

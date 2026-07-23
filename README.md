@@ -171,6 +171,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
@@ -529,6 +530,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
@@ -665,6 +667,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
@@ -799,10 +802,12 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -843,6 +848,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
@@ -865,4 +871,8 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

@@ -219,6 +219,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -256,6 +257,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -445,6 +447,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
@@ -608,6 +611,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |

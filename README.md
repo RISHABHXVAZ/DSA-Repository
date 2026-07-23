@@ -127,6 +127,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0040-combination-sum-ii) |
@@ -274,6 +275,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
@@ -619,6 +621,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |

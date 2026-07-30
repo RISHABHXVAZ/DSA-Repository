@@ -200,6 +200,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1109-corporate-flight-bookings) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
@@ -356,6 +357,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -494,6 +496,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
@@ -546,6 +549,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -641,6 +645,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
+| [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |

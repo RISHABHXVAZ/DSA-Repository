@@ -214,6 +214,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
@@ -292,6 +293,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -352,6 +354,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -656,6 +659,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
@@ -672,6 +676,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -880,6 +885,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
+| [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 ## Number Theory
 |  |
 | ------- |

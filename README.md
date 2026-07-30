@@ -219,6 +219,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
+| [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
@@ -427,6 +428,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
+| [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -452,6 +454,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
+| [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -556,6 +559,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search

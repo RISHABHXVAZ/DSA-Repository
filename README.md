@@ -493,6 +493,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 ## Queue
@@ -845,6 +846,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |

@@ -188,6 +188,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0546-remove-boxes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
@@ -355,6 +356,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0546-remove-boxes) |
 | [0576-out-of-boundary-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
@@ -841,6 +843,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
+| [0546-remove-boxes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0546-remove-boxes) |
 ## Recursion
 |  |
 | ------- |

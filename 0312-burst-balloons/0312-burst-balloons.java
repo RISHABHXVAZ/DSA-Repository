@@ -1,39 +1,28 @@
 class Solution {
-    int func(int i, int j, int[] nums, int[][] dp){
+    int func(int i, int j, int[] arr, int[][] dp){
         if(i > j) return 0;
-        if(dp[i][j] != Integer.MIN_VALUE) return dp[i][j];
-        int steps = 0;
-        for(int k = i; k <= j; k++){
+        if(dp[i][j] != -1) return dp[i][j];
 
-            steps = nums[i-1]*nums[k]*nums[j+1] + func(i, k-1, nums,dp) + func(k+1, j, nums,dp);
-            dp[i][j] = Math.max(dp[i][j], steps);
+        int ans = Integer.MIN_VALUE;
+        for(int k = i; k <= j; k++){
+            int steps = arr[i-1]*arr[k]*arr[j+1] + func(i, k-1, arr, dp) + func(k+1, j, arr, dp);
+            ans = Math.max(ans, steps);
         }
-        return dp[i][j];
+
+        return dp[i][j] = ans;
     }
     public int maxCoins(int[] nums) {
         int n = nums.length;
-        int[] newarr = new int[n+2];
-        newarr[0] = 1;
-        newarr[n+1] = 1;
+        int[] arr = new int[n+2];
+        arr[0] = 1;
+        arr[n+1] = 1;
         for(int i = 1; i <= n; i++){
-            newarr[i] = nums[i-1];
+            arr[i] = nums[i-1];
         }
 
         int[][] dp = new int[n+2][n+2];
-      
-        for(int i = n; i >= 1; i--){
-            for(int j = 1; j <= n; j++){
-                if(i > j) dp[i][j] = 0;
-                else{
-                    int steps = 0;
-                    dp[i][j] = Integer.MIN_VALUE;
-                    for(int k = i; k <= j; k++){
-                        steps = newarr[i-1]*newarr[k]*newarr[j+1] + dp[i][k-1] + dp[k+1][j];
-                        dp[i][j] = Math.max(dp[i][j], steps);
-                    }
-                }
-            }
-        }
-        return dp[1][n];
+        for(int i = 0; i < n+2; i++) Arrays.fill(dp[i], -1);
+
+        return func(1, n, arr, dp);
     }
 }

@@ -102,6 +102,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3310-remove-methods-from-project](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -645,6 +646,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3310-remove-methods-from-project) |
 ## Union Find
 |  |
 | ------- |
@@ -800,6 +802,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |

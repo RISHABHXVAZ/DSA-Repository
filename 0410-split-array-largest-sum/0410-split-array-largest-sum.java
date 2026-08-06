@@ -4,26 +4,25 @@ class Solution {
         int p = 0;
         int sum = 0;
         for(int i = 0; i < n; i++){
-            if(arr[i] > maxsum) return Integer.MAX_VALUE;
-            if(sum + arr[i] > maxsum){
-                p++;
+            if(sum + arr[i] <= maxsum){
+                sum += arr[i];
+            }else{
                 sum = arr[i];
-                continue;
+                p++;
             }
-            
-            sum += arr[i];
         }
 
         return p+1;
     }
     public int splitArray(int[] nums, int k) {
         int n = nums.length;
-        int sum = 0;
+        int sum = 0, max = -1;
         for(int i = 0; i < n; i++){
             sum += nums[i];
+            max = Math.max(max, nums[i]);
         }
 
-        int low = 0, high = sum;
+        int low = max, high = sum;
         int ans = 0;
         while(low <= high){
             int mid = low + (high-low)/2;

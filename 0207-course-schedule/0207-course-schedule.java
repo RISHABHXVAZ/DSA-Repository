@@ -2,35 +2,37 @@ class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         int n = numCourses;
         List<List<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < numCourses; i++){
+        
+        for(int i = 0; i < n; i++){
             adj.add(new ArrayList<>());
         }
 
         for(int i = 0; i < prerequisites.length; i++){
-            int a = prerequisites[i][0];
-            int b = prerequisites[i][1];
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
 
-            adj.get(b).add(a);
+            adj.get(v).add(u);
         }
 
         int[] indegree = new int[n];
-        for(List<Integer> lst : adj){
-            for(int num : lst){
+        for(int i = 0; i < n; i++){
+            for(int num : adj.get(i)){
                 indegree[num]++;
             }
         }
-
+        List<Integer> ans = new ArrayList<>();
         Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i < n; i++){
             if(indegree[i] == 0) q.add(i);
         }
-        List<Integer> ans = new ArrayList<>();
+
         while(!q.isEmpty()){
-            int p = q.poll();
-            ans.add(p);
-            for(int t : adj.get(p)){
-                indegree[t]--;
-                if(indegree[t] == 0) q.add(t);
+            int node = q.poll();
+            ans.add(node);
+
+            for(int ngh : adj.get(node)){
+                indegree[ngh]--;
+                if(indegree[ngh] == 0) q.add(ngh);
             }
         }
 

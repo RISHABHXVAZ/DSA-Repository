@@ -1,21 +1,23 @@
 class Solution {
-    static int func(int[] nums, int goal){
-        if(goal < 0) return 0;
-        int n = nums.length;
-        int i = 0, j = 0;
-        int sum = 0, cnt = 0;
-        while(j < n){
-            sum += nums[j];
-            while(sum > goal){
-                sum -= nums[i];
-                i++;
-            }
-            cnt += (j-i+1);
-            j++;
-        }
-        return cnt;
-    }
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return func(nums,goal) - func(nums, goal-1);
+        int n = nums.length;
+        Map<Integer, Integer> mpp = new HashMap<>();
+        mpp.put(0, 1);
+        int[] pref = new int[n];
+        pref[0] = nums[0];
+        for(int i = 1; i < n; i++){
+            pref[i] = pref[i-1] + nums[i];
+        }
+        int count = 0;
+        for(int r = 0; r < n; r++){
+            int t = pref[r] - goal;
+            if(mpp.containsKey(t)){
+                count += mpp.get(t);
+            }
+
+            mpp.put(pref[r], mpp.getOrDefault(pref[r], 0) + 1);
+        }
+
+        return count;
     }
 }

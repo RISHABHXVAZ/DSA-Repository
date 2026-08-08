@@ -316,6 +316,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -386,6 +387,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
@@ -441,6 +443,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -464,6 +467,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix

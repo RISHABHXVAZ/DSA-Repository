@@ -386,6 +386,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -686,6 +687,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
@@ -982,14 +984,25 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

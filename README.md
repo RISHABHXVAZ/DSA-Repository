@@ -233,6 +233,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
@@ -469,6 +470,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
@@ -553,6 +555,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
@@ -688,6 +691,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
@@ -721,6 +725,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -985,18 +990,21 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 ## Nim Game
 |  |
 | ------- |

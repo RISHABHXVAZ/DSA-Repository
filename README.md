@@ -252,6 +252,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -291,6 +292,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1331-rank-transform-of-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -736,6 +738,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |

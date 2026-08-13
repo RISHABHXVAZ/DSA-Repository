@@ -247,6 +247,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -453,6 +454,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -912,6 +914,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -982,6 +985,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Directed Acyclic Graph
 |  |
 | ------- |

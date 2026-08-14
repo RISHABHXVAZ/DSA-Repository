@@ -294,6 +294,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -455,6 +456,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -543,6 +545,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

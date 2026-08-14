@@ -236,6 +236,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |

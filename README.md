@@ -164,6 +164,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
@@ -321,6 +322,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
@@ -694,6 +696,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0050-powx-n](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |

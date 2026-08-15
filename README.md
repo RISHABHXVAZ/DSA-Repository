@@ -136,6 +136,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
@@ -319,6 +320,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -728,6 +730,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |

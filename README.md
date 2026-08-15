@@ -164,6 +164,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -275,6 +276,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |
@@ -362,6 +364,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
@@ -437,6 +440,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0115-distinct-subsequences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
@@ -902,6 +906,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0546-remove-boxes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0546-remove-boxes) |
 ## Recursion
@@ -942,6 +947,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -1043,4 +1049,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

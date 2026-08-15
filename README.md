@@ -1053,4 +1053,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

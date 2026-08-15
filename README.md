@@ -136,6 +136,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -612,6 +613,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0410-split-array-largest-sum) |
@@ -781,6 +783,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |

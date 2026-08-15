@@ -261,6 +261,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -766,6 +767,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -1060,4 +1060,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

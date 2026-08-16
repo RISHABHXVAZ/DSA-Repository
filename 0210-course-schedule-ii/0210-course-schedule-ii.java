@@ -1,24 +1,20 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int n = numCourses;
-
         List<List<Integer>> adj = new ArrayList<>();
 
         for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
-        for(int i = 0; i < prerequisites.length;i++){
+        for(int i = 0; i < prerequisites.length; i++){
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
-
             adj.get(v).add(u);
         }
 
-        List<Integer> temp = new ArrayList<>();
         int[] indegree = new int[n];
-
         for(int i = 0; i < n; i++){
-            for(int it: adj.get(i)){
-                indegree[it]++;
+            for(int node : adj.get(i)){
+                indegree[node]++;
             }
         }
 
@@ -27,21 +23,24 @@ class Solution {
             if(indegree[i] == 0) q.add(i);
         }
 
+        List<Integer> order = new ArrayList<>();
         while(!q.isEmpty()){
             int node = q.poll();
-            temp.add(node);
-            for(int it: adj.get(node)){
+            order.add(node);
+            for(int it : adj.get(node)){
                 indegree[it]--;
                 if(indegree[it] == 0) q.add(it);
             }
         }
 
-        if(temp.size() != n) return new int[0];
+        if(order.size() != n) return new int[0];
 
-        int[] ans = new int[n];
-        for(int i = 0; i < n; i++){
-            ans[i] = temp.get(i);
+        int[] res = new int[n];
+        int k = 0;
+        for(int num : order){
+            res[k++] = num;
         }
-        return ans;
+
+        return res;
     }
 }

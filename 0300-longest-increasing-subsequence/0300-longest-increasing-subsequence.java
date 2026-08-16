@@ -17,14 +17,21 @@ class Solution {
         for(int i = 0; i < n; i++) max = Math.max(max, nums[i]);
 
         int maxlen = 0;
-        int[][] dp = new int[n][n];
-        for(int i = 0; i < n; i++) Arrays.fill(dp[i], -1);
+        int[][] dp = new int[n+1][n+1];
 
-        for(int i = 0; i < n; i++){ 
-            int len = func(i, -1, nums, dp);
-            maxlen = Math.max(maxlen, len);
+        for(int i = n-1; i >= 0; i--){
+            for(int prev = n-1; prev >= -1; prev--){
+                int take = Integer.MIN_VALUE;
+                if(prev == -1 || nums[i] > nums[prev]){
+                    take = 1 + dp[i+1][i+1];
+                }
+                int nottake = dp[i+1][prev+1];
+
+                dp[i][prev+1] = Math.max(take, nottake);
+            }
         }
+        
+        return dp[0][0];
 
-        return maxlen;
     }
 }

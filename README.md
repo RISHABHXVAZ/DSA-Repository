@@ -236,6 +236,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1514-path-with-maximum-probability](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
@@ -407,6 +408,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -717,6 +719,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
@@ -1034,6 +1037,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game

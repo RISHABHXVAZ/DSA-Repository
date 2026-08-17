@@ -1068,4 +1068,12 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

@@ -170,6 +170,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
@@ -447,6 +448,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0132-palindrome-partitioning-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |
@@ -516,6 +518,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
@@ -904,6 +907,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0051-n-queens](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0306-additive-number) |
@@ -957,6 +961,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## String Matching

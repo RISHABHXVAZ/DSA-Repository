@@ -1,9 +1,8 @@
 class Solution {
     int hours(int[] piles, int k){
         int h = 0;
-
         for(int i = 0; i < piles.length; i++){
-           h += Math.ceil((double)piles[i]/k);
+            h += Math.ceil(piles[i]/(double)k);
         }
 
         return h;
@@ -11,17 +10,16 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int n = piles.length;
         
-        int max = -1;
+        int low = 0, high = Integer.MIN_VALUE;
         for(int i = 0; i < n; i++){
-            max = Math.max(max, piles[i]);
+            high = Math.max(high, piles[i]);
         }
 
-        int low = 1, high = max;
         int ans = 0;
-        Arrays.sort(piles);
         while(low <= high){
             int mid = low + (high-low)/2;
-            if(hours(piles, mid) <= h){
+            int hrs = hours(piles, mid);
+            if(hrs <= h){
                 ans = mid;
                 high = mid-1;
             }else low = mid+1;

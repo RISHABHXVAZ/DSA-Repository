@@ -328,6 +328,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -350,6 +351,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
@@ -433,6 +435,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
@@ -1085,4 +1088,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

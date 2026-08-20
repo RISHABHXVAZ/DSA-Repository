@@ -1094,4 +1094,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

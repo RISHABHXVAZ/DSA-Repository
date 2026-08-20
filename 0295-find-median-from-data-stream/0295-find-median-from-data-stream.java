@@ -8,22 +8,18 @@ class MedianFinder {
     
     public void addNum(int num) {
         maxheap.add(num);
-
         minheap.add(maxheap.poll());
 
-        if(minheap.size() > maxheap.size()){
+        if(maxheap.size() < minheap.size()){
             maxheap.add(minheap.poll());
         }
     }
     
     public double findMedian() {
-        double ans = 0;
-        if(maxheap.size() == minheap.size()){
-            ans = maxheap.peek() + minheap.peek();
-            return ans /= 2.0;
-        }else{
-            return maxheap.peek();
-        }
+        int size = maxheap.size() + minheap.size();
+        
+        if(size % 2 != 0) return maxheap.peek();
+        return (maxheap.peek() + minheap.peek())/2.0; 
     }
 }
 

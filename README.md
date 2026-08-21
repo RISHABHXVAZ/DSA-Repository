@@ -168,6 +168,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -287,6 +288,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0127-word-ladder](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
@@ -753,6 +755,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1189-maximum-number-of-balloons) |
@@ -765,6 +768,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
@@ -814,6 +818,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
@@ -1119,4 +1124,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

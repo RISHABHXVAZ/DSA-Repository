@@ -154,6 +154,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0057-insert-interval](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
@@ -338,6 +339,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
@@ -762,6 +764,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
@@ -1108,4 +1111,12 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

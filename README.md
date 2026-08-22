@@ -141,6 +141,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0040-combination-sum-ii) |
@@ -341,6 +342,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |

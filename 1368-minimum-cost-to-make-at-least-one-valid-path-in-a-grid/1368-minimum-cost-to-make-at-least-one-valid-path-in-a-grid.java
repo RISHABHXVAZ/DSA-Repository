@@ -2,42 +2,62 @@ class Solution {
     public int minCost(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->a[0]-b[0]);
-        Map<Integer, int[]> mpp = new HashMap<>();
-        mpp.put(1, new int[]{0,1});
-        mpp.put(2, new int[]{0,-1});
-        mpp.put(3, new int[]{1,0});
-        mpp.put(4, new int[]{-1,0});
-        int[][] cost = new int[m][n];
-        boolean[][] vis = new boolean[m][n];
-        for(int i = 0; i < m; i++){
-            Arrays.fill(cost[i], Integer.MAX_VALUE);
+
+        int[][] dist = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
         }
-        cost[0][0] = 0;
-        pq.add(new int[]{0,0,0});
-        while(!pq.isEmpty()){
-            int cst = pq.peek()[0];
-            int r = pq.peek()[1];
-            int c = pq.peek()[2];
-            vis[r][c] = true;
-            pq.remove();
-            int val = grid[r][c];
-     for(int i = 1; i <= 4; i++){
 
-                int nr = r + mpp.get(i)[0];
-                int nc = c + mpp.get(i)[1];
+        dist[0][0] = 0;
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[] { 0, 0, 0 });
 
-                if(nr >= 0 && nr < m && nc >= 0 && nc < n){
+        while (!q.isEmpty()) {
+            int[] p = q.poll();
+            int r = p[0], c = p[1], cost = p[2];
 
-                    int newCost = cst + (i == val ? 0 : 1);
-
-                    if(newCost < cost[nr][nc]){
-                        cost[nr][nc] = newCost;
-                        pq.add(new int[]{newCost, nr, nc});
-                    }
-                }
-            }
+            int nr = -1, nc = -1;
+            if (grid[r][c] == 1) {
+                nr = r;
+                nc = c + 1;
+            } else if (grid[r][c] == 2) {
+                nr = r;
+                nc = c - 1;
+            } else if (grid[r][c] == 3) {
+                nr = r + 1;
+                nc = c;
+            } else {
+                nr = r - 1;
+                nc = c;
             }
 
-        return cost[m-1][n-1];
-}}
+            if (nr >= 0 && nr < m && nc >= 0 && nc < n && dist[nr][nc] > cost) {
+
+                dist[nr][nc] = cost;
+                q.add(new int[] { nr, nc, dist[nr][nc] });
+            }
+            if (r + 1 >= 0 && r + 1 < m && c >= 0 && c < n && dist[r + 1][c] > 1 + cost) {
+                dist[r + 1][c] = 1 + cost;
+                q.add(new int[] { r + 1, c, dist[r + 1][c] });
+            }
+
+            if (r - 1 >= 0 && r - 1 < m && c >= 0 && c < n && dist[r - 1][c] > 1 + cost) {
+                dist[r - 1][c] = 1 + cost;
+                q.add(new int[] { r - 1, c, dist[r - 1][c] });
+            }
+
+            if (r >= 0 && r < m && c + 1 >= 0 && c + 1 < n && dist[r][c + 1] > 1 + cost) {
+                dist[r][c + 1] = 1 + cost;
+                q.add(new int[] { r, c + 1, dist[r][c + 1] });
+            }
+
+            if (r >= 0 && r < m && c - 1 >= 0 && c - 1 < n && dist[r][c - 1] > 1 + cost) {
+                dist[r][c - 1] = 1 + cost;
+                q.add(new int[] { r, c - 1, dist[r][c - 1] });
+            }
+        }
+
+        return dist[m - 1][n - 1];
+
+    }
+}

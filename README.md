@@ -492,6 +492,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
+| [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -519,6 +520,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -750,6 +752,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1078,6 +1081,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |

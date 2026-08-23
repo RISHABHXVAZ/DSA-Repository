@@ -1064,6 +1064,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0743-network-delay-time) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -1138,4 +1139,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->

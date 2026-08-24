@@ -254,6 +254,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1833-maximum-ice-cream-bars](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
@@ -429,6 +430,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1755-closest-subsequence-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
@@ -675,6 +677,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -752,6 +755,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
@@ -1075,6 +1079,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1084,6 +1089,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1563-stone-game-v](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
@@ -1093,6 +1099,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1510-stone-game-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |

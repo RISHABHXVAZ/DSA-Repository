@@ -277,6 +277,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -320,6 +321,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |

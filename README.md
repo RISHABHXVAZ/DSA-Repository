@@ -258,6 +258,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
+| [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -497,6 +498,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1927-sum-game) |
+| [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -661,6 +663,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3620-network-recovery-pathways](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -680,6 +683,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
+| [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |

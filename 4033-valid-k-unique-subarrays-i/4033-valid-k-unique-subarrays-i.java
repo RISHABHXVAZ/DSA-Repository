@@ -68,25 +68,30 @@ class Solution {
             int targetL = Queries[i].l;
             int targetR = Queries[i].r;
             int idx = Queries[i].i;
-            while (currr < targetR) {
-                currr++;
-                add(currr, nums);
-            }
-
-            while (currr > targetR) {
-                remove(currr, nums);
-                currr--;
-            }
 
             while (currl < targetL) {
                 remove(currl, nums);
                 currl++;
             }
 
+           
+            while (currr > targetR) {
+                remove(currr, nums);
+                currr--;
+            }
+
+            
+
             while (currl > targetL) {
                 currl--;
                 add(currl, nums);
             }
+
+             while (currr < targetR) {
+                currr++;
+                add(currr, nums);
+            }
+
 
             ans[idx] = distinctCount == k && oddFreq == 0;
         }

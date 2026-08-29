@@ -269,6 +269,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -819,6 +820,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -893,6 +895,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1584-min-cost-to-connect-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |

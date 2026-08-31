@@ -580,6 +580,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0206-reverse-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Queue
 |  |
 | ------- |

@@ -161,6 +161,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -356,6 +357,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
@@ -802,6 +804,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0047-permutations-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0242-valid-anagram) |

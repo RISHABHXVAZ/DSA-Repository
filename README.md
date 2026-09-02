@@ -156,6 +156,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0057-insert-interval](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
@@ -457,6 +458,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -472,6 +474,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |

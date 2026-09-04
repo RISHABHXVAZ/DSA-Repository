@@ -312,6 +312,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
@@ -366,6 +367,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0680-valid-palindrome-ii) |
@@ -498,6 +500,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
@@ -606,6 +609,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0076-minimum-window-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0978-longest-turbulent-subarray) |

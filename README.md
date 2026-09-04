@@ -13,6 +13,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0094-binary-tree-inorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
@@ -657,6 +658,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0295-find-median-from-data-stream) |

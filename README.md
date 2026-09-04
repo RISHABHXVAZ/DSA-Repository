@@ -6,6 +6,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
@@ -474,6 +475,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0038-count-and-say) |
@@ -1197,4 +1199,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

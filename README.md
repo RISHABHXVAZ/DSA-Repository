@@ -19,6 +19,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
@@ -211,6 +212,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0721-accounts-merge](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
@@ -347,6 +349,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |

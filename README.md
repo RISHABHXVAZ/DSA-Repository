@@ -224,6 +224,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [0956-tallest-billboard](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0956-tallest-billboard) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0978-longest-turbulent-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0994-rotting-oranges) |
@@ -326,6 +327,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0904-fruit-into-baskets](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1189-maximum-number-of-balloons) |
@@ -714,6 +716,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0238-product-of-array-except-self](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |

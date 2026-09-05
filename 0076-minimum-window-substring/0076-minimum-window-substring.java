@@ -2,44 +2,46 @@ class Solution {
     public String minWindow(String s, String t) {
         int n = s.length();
         int m = t.length();
+        if (n < m) return "";
 
         Map<Character, Integer> mpp = new HashMap<>();
-        Map<Character, Integer> target = new HashMap<>();
-
-        for(int i = 0; i < m; i++){
-            target.put(t.charAt(i), target.getOrDefault(t.charAt(i), 0) + 1);
+        for (int i = 0; i < m; i++) {
+            char ch = t.charAt(i);
+            mpp.put(ch, mpp.getOrDefault(ch, 0) + 1);
         }
 
-        int formed = 0;
-        int ans = Integer.MAX_VALUE;
-        int startI = -1, endI = -1;
+        int minlen = Integer.MAX_VALUE;
+        int startIndex = -1;
+
         int i = 0;
-        for(int j = 0; j < n; j++){
+        int count = m; // Tracks total required characters
+
+        for (int j = 0; j < n; j++) {
             char ch = s.charAt(j);
-            mpp.put(ch, mpp.getOrDefault(ch,0)+1);
 
-            if(target.containsKey(ch) && target.get(ch).intValue() == mpp.get(ch).intValue()){
-                formed++;
+            // If ch is part of t and still needed, reduce count
+            if (mpp.containsKey(ch)) {
+                if (mpp.get(ch) > 0) count--;
+                mpp.put(ch, mpp.get(ch) - 1);
             }
-                while(i <= j && formed == target.size()){
-                    if(j-i+1 < ans){
-                    ans = j-i+1;
-                    startI = i;
-                    endI = j;
-                    }
-                    char ch1 = s.charAt(i);
-                    mpp.put(ch1, mpp.get(ch1)-1);
-                    if(mpp.get(ch1) == 0) mpp.remove(ch1);
 
-                    if(target.containsKey(ch1) && (!mpp.containsKey(ch1) || mpp.get(ch1).intValue() < target.get(ch1).intValue())){
-                        formed--;
-                    }
-                    i++;
+            // Shrink window while it contains all characters of t
+            while (count == 0) {
+                if (j - i + 1 < minlen) {
+                    minlen = j - i + 1;
+                    startIndex = i;
                 }
+
+                char ch2 = s.charAt(i);
+                if (mpp.containsKey(ch2)) {
+                    mpp.put(ch2, mpp.get(ch2) + 1);
+                    // If count of ch2 becomes > 0, we now lack a needed char
+                    if (mpp.get(ch2) > 0) count++;
+                }
+                i++;
+            }
         }
 
-        if(startI == -1 && endI == -1) return "";
-        return s.substring(startI, endI+1);
-
+        return startIndex == -1 ? "" : s.substring(startIndex, startIndex + minlen);
     }
 }

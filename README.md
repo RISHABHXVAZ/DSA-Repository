@@ -141,6 +141,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -364,6 +365,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -540,6 +542,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0055-jump-game) |

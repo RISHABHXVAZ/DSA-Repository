@@ -10,8 +10,17 @@ class Solution {
     }
     public long mostPoints(int[][] questions) {
         int n = questions.length;
-        long[] dp = new long[n];
-        Arrays.fill(dp, -1);
-        return func(0, dp, questions);
+        long[] dp = new long[n+1];
+        // Arrays.fill(dp, -1);
+        // return func(0, dp, questions);
+
+        for(int i = n-1; i >= 0; i--){
+            long take = (long)questions[i][0];
+            if(i + questions[i][1] + 1 < n) take += dp[i+questions[i][1]+1];
+            long skip = dp[i+1];
+            dp[i] = Math.max(take, skip);
+        }
+
+        return dp[0];
     }
 }

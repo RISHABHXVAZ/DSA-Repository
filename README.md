@@ -454,6 +454,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1043-partition-array-for-maximum-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -811,6 +812,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
+| [1137-n-th-tribonacci-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1031,6 +1033,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0241-different-ways-to-add-parentheses) |
 | [0546-remove-boxes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0546-remove-boxes) |
+| [1137-n-th-tribonacci-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |

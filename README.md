@@ -275,6 +275,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [2126-destroying-asteroids](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
+| [2140-solving-questions-with-brainpower](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -475,6 +476,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
+| [2140-solving-questions-with-brainpower](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2140-solving-questions-with-brainpower) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

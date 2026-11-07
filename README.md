@@ -246,6 +246,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1191-k-concatenation-maximum-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1266-minimum-time-visiting-all-points) |
@@ -465,6 +466,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1137-n-th-tribonacci-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1143-longest-common-subsequence) |
+| [1191-k-concatenation-maximum-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1191-k-concatenation-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

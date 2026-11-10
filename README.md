@@ -198,6 +198,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0347-top-k-frequent-elements](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -438,6 +439,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0312-burst-balloons](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |

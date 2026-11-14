@@ -180,6 +180,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
@@ -432,6 +433,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0132-palindrome-partitioning-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0213-house-robber-ii) |
@@ -608,6 +610,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0079-word-search](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0221-maximal-square) |

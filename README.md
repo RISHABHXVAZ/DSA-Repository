@@ -1234,6 +1234,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1269,4 +1270,8 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0020-valid-parentheses) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

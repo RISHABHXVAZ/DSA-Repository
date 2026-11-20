@@ -244,6 +244,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1043-partition-array-for-maximum-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 | [1073-number-of-enclaves](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1094-car-pooling) |
@@ -472,6 +473,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0978-longest-turbulent-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0978-longest-turbulent-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1140-stone-game-ii) |
@@ -1237,6 +1239,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1276,4 +1279,5 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

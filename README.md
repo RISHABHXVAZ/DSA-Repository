@@ -205,6 +205,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0496-next-greater-element-i) |
@@ -451,6 +452,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0410-split-array-largest-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
@@ -545,6 +547,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0399-evaluate-division](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0583-delete-operation-for-two-strings) |
@@ -1237,6 +1240,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | ------- |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
@@ -1278,6 +1282,7 @@ DSA problems solved in Java with clean and optimized solutions.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

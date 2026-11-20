@@ -10,6 +10,19 @@ class Solution {
     }
     public int findTargetSumWays(int[] nums, int target) {
         int n = nums.length;
+
+        //saare elements positive hai
+        //if target > sum then ofc it is not possible -> return 0
+        //lets say my sum of elements is somewhere on the number line 0.......sum
+        //and target is somewhere behind sum
+        //some numbers in the array needs to become negative in order for the sum to become target..right? 
+        //when lets say some x elements becomes neg, then remaining sum of elements = sum - x
+        //x is positive here
+        //so for my final array -> (sum-x) - x = target ...why? because some elements x have placed a minus sign in front of them. So, sum of rem elements = sum-x and that x elements needs to be added also but since they have placed a minus sign so x being positive it becomes (sum-x)-x = target
+        //x = (sum-target)/2 
+        //if sum-target is odd -> not possible -> return 0
+        //if even, search for a subset of array which has a sum-target as total sum. It will be positive because sum >= target always so dp works here.
+
         int sum = 0;
         for(int i = 0; i < n; i++){
             sum += nums[i];

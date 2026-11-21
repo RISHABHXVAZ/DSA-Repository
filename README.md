@@ -228,6 +228,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0846-hand-of-straights](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0930-binary-subarrays-with-sum) |
@@ -469,6 +470,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0741-cherry-pickup](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0879-profitable-schemes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0943-sum-of-subarray-minimums) |
 | [0956-tallest-billboard](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0956-tallest-billboard) |
@@ -1243,6 +1245,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
+| [0879-profitable-schemes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
@@ -1284,5 +1287,6 @@ DSA problems solved in Java with clean and optimized solutions.
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

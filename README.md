@@ -291,6 +291,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 | [2353-design-a-food-rating-system](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2353-design-a-food-rating-system) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
@@ -502,6 +503,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2140-solving-questions-with-brainpower) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -780,6 +782,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [1872-stone-game-viii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/1872-stone-game-viii) |
 | [2055-plates-between-candles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2055-plates-between-candles) |
 | [2132-stamping-the-grid](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2132-stamping-the-grid) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/3903-smallest-stable-index-i) |

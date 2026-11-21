@@ -14,12 +14,28 @@ class Solution {
         for(List<Integer> lst : piles){
             max = Math.max(max, lst.size());
         }
-        int[][][] dp = new int[n][max+1][k+1];
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j <= max; j++){
-                Arrays.fill(dp[i][j], -1);
+        int[][][] dp = new int[n+1][max+1][k+1];
+        // for(int i = 0; i < n; i++){
+        //     for(int j = 0; j <= max; j++){
+        //         Arrays.fill(dp[i][j], -1);
+        //     }
+        // }
+        // return func(0, 0, k, piles, dp);
+
+       
+        for(int i = n-1; i >= 0; i--){
+            for(int idx = piles.get(i).size(); idx >= 0; idx--){
+                for(int K = 0; K <= k; K++){
+                    if(idx == piles.get(i).size()){ 
+                        dp[i][idx][K] = dp[i+1][0][K];
+                        continue;
+                    }
+                    int take = K > 0 ? piles.get(i).get(idx) + dp[i][idx+1][K-1] : 0;
+                    int skip = dp[i+1][0][K];
+                    dp[i][idx][K] = (int)Math.max(take, skip);
+                }
             }
         }
-        return func(0, 0, k, piles, dp);
+        return dp[0][0][k];
     }
 }

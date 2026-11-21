@@ -11,13 +11,28 @@ class Solution {
 
         return dp[i][n][minp] = (take + skip) % mod;
     }
-    public int profitableSchemes(int n, int minProfit, int[] group, int[] profit) {
-        int[][][] dp = new int[group.length][n+1][minProfit+1];
-        for(int i = 0; i < group.length; i++){
-            for(int j = 0; j <= n; j++){
-                Arrays.fill(dp[i][j], -1);
+    public int profitableSchemes(int N, int minProfit, int[] group, int[] profit) {
+        int[][][] dp = new int[group.length+1][N+1][minProfit+1];
+        // for(int i = 0; i < group.length; i++){
+        //     for(int j = 0; j <= n; j++){
+        //         Arrays.fill(dp[i][j], -1);
+        //     }
+        // }
+        // return func(0, n, minProfit, group, profit, dp) % mod;
+
+        for(int n = 0; n <= N; n++){
+         dp[group.length][n][0] = 1;   
+        }
+        for(int i = group.length-1; i >= 0; i--){
+            for(int n = 0; n <= N; n++){
+                for(int minp = 0; minp <= minProfit; minp++){
+                    int take = 0;
+                    if(group[i] <= n) take = dp[i+1][n-group[i]][Math.max(0, minp-profit[i])];
+                    int skip = dp[i+1][n][minp];
+                    dp[i][n][minp] = (take+skip)%mod;
+                }
             }
         }
-        return func(0, n, minProfit, group, profit, dp) % mod;
+        return dp[0][N][minProfit] % mod;
     }
 }

@@ -1,13 +1,12 @@
 class Solution {
-    int func(int i, int amt, int[] coins, int[][] dp){
-        if(amt == 0) return 1;
+    int func(int i, int amount, int[] coins, int[][] dp){
+        if(amount == 0) return 1;
         if(i == coins.length) return 0;
-        if(dp[i][amt] != -1) return dp[i][amt];
+        if(dp[i][amount] != -1) return dp[i][amount];
         int take = 0;
-        if(coins[i] <= amt) take = func(i, amt-coins[i], coins, dp);
-        int skip = func(i+1, amt, coins, dp);
-        
-        return dp[i][amt] = take + skip;
+        if(coins[i] <= amount) take = func(i, amount-coins[i], coins, dp);
+        int skip = func(i+1, amount, coins, dp);
+        return dp[i][amount] = take + skip;
     }
     public int change(int amount, int[] coins) {
         int n = coins.length;

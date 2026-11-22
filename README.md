@@ -1245,6 +1245,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0474-ones-and-zeroes) |
@@ -1255,6 +1256,7 @@ DSA problems solved in Java with clean and optimized solutions.
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/0518-coin-change-ii) |
 ## Manacher

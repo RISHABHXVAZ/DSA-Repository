@@ -294,6 +294,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2227-sum-of-subarray-ranges](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2227-sum-of-subarray-ranges) |
 | [2353-design-a-food-rating-system](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2353-design-a-food-rating-system) |
+| [2518-number-of-great-partitions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2518-number-of-great-partitions) |
 | [2536-increment-submatrices-by-one](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2536-increment-submatrices-by-one) |
 | [2747-count-zero-request-servers](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -504,6 +505,7 @@ DSA problems solved in Java with clean and optimized solutions.
 | [2050-parallel-courses-iii](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2518-number-of-great-partitions](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2518-number-of-great-partitions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/RISHABHXVAZ/DSA-Repository/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |

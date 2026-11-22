@@ -1,41 +1,23 @@
 class Solution {
-    int func(int i, int idx, int k, List<List<Integer>> piles, int[][][] dp){
+    int func(int i, int k, List<List<Integer>> piles, int[][] dp){
         if(i == piles.size()) return 0;
         if(k == 0) return 0;
-        if(dp[i][idx][k] != -1) return dp[i][idx][k];
-        if(idx == piles.get(i).size()) return dp[i][idx][k] = func(i+1, 0, k, piles,dp);
-        int take = piles.get(i).get(idx) + func(i, idx+1, k-1, piles,dp);
-        int skip = func(i+1, 0, k, piles,dp);
-        return dp[i][idx][k] = (int)Math.max(take, skip);
+        if(dp[i][k] != -1) return dp[i][k];
+        int skip = func(i+1, k, piles,dp);
+        int take = 0;
+        int sum = 0;
+        for(int coins = 1; coins <= Math.min(k,piles.get(i).size()); coins++){
+            sum += piles.get(i).get(coins-1);
+            take = Math.max(take, sum + func(i+1, Math.max(0, k-coins), piles,dp));
+        }
+        return dp[i][k] = (int)Math.max(take, skip);
     }
     public int maxValueOfCoins(List<List<Integer>> piles, int k) {
         int n = piles.size();
-        int max = 0;
-        for(List<Integer> lst : piles){
-            max = Math.max(max, lst.size());
+        int[][] dp = new int[n][k+1];
+        for(int i = 0; i < n; i++){
+            Arrays.fill(dp[i], -1);
         }
-        int[][][] dp = new int[n+1][max+1][k+1];
-        // for(int i = 0; i < n; i++){
-        //     for(int j = 0; j <= max; j++){
-        //         Arrays.fill(dp[i][j], -1);
-        //     }
-        // }
-        // return func(0, 0, k, piles, dp);
-
-       
-        for(int i = n-1; i >= 0; i--){
-            for(int idx = piles.get(i).size(); idx >= 0; idx--){
-                for(int K = 0; K <= k; K++){
-                    if(idx == piles.get(i).size()){ 
-                        dp[i][idx][K] = dp[i+1][0][K];
-                        continue;
-                    }
-                    int take = K > 0 ? piles.get(i).get(idx) + dp[i][idx+1][K-1] : 0;
-                    int skip = dp[i+1][0][K];
-                    dp[i][idx][K] = (int)Math.max(take, skip);
-                }
-            }
-        }
-        return dp[0][0][k];
+        return func(0, k, piles, dp);
     }
 }
